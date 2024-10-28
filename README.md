@@ -9,7 +9,7 @@
 
 - 👨‍💻 I am a Frontend developer with a focus on web fundamentals. I work at Nagarro to deliver the quality projects. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
-- Watch my talks on YouTube
+- Watch this on YouTube
 
   - [How to clear frontend interviews at Product companies?](https://www.youtube.com/watch?v=LjpWXIT_XvY)
   - [Frontend System Design of W3Schools](https://www.youtube.com/watch?v=JwxzDXnDBhw)
