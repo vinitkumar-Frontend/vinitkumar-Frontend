@@ -29,6 +29,7 @@
 <br>
   
 <a href="https://github.com/vinitkumar/github-readme-stats">
+  <img src="https://raw.githubusercontent.com/vinitkumar-Frontend/vinitkumar-Frontend/15a9c0463d3609b4fa359d17695ef90e8037dbf5/key-skills.svg" />
   <svg width="430" height="300" viewBox="0 0 430 300" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="430" height="300" fill="#F5F5F5"/>
 <path d="M0 5C0 2.23857 2.23858 0 5 0H425C427.761 0 430 2.23858 430 5V295C430 297.761 427.761 300 425 300H5C2.23858 300 0 297.761 0 295V5Z" fill="#0D1927"/>
