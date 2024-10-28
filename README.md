@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinit Kumar</h1>
-<h3 align="center">UI/UX developer who aims to write quality code</h3>
+<h3 align="center">Frontend developer who aims to write quality code</h3>
 
 <div align=center>
   <a href="https://www.linkedin.com/in/vinit-kumar12/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
@@ -7,7 +7,7 @@
   <br><br>
 </div>
 
-- 👨‍💻 I am a UI/UX developer with a focus on web fundamentals. I work at Nagarro to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
+- 👨‍💻 I am a Frontend developer with a focus on web fundamentals. I work at Nagarro to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
 - Watch my talks on YouTube
 
